@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f4;
+}
+.profile-pic {
+    border-radius: 50%; /* Membuat gambar oval */
+    width: 200px; /* Ukuran baru */
+    height: 250px; /* Ukuran baru */
+    padding: 5px; /* Ruang antara bingkai dan gambar */
+    background-color: white; /* Latar belakang bingkai */
+}
+
+}
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 0;
+}
+.footer {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
